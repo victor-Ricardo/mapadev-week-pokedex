@@ -1,7 +1,7 @@
 
 main{
     min-height: 100vh;
-    background: url(../images/fundo-site.png) no-repeat;
+    background: url(../imagens/fundo-site.png) no-repeat;
     background-size: cover;
     min-height: 100vh;
     display: flex;
